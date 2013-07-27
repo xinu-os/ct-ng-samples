@@ -1,0 +1,4 @@
+reporter_name="Michael J. Schultz"
+reporter_url="http://xinu-os.org/"
+reporter_comment="Allows building x86 (and maybe x86_64) Xinu kernel to
+bare-metal"
